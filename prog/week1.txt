@@ -6,6 +6,8 @@ Week 1 goals:
  
  
  
- Hardware: ifirst two chapters of Arduino book.
- research boards for ROV. Complete tethered Rove.
+ Hardware: first two chapters of Arduino book.
+ research boards for ROV. Complete tethered Rov.
+ 
+ Partner with Alex.
  

@@ -4,3 +4,8 @@ David
 Week 1 goals:
  python codecademy for as far as I can get in a week.
  
+ 
+ 
+ Hardware: ifirst two chapters of Arduino book.
+ research boards for ROV. Complete tethered Rove.
+ 

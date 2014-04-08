@@ -1,3 +1,48 @@
 1. John and Saint
-2.Lib 2619
-3.
+2. Lib 2619
+3. What was accomplished in the last week and plans for the next week. Feedback will be on the GitHub page.
+5. variables - reserved memory locations to store values
+    var = 22
+   print var
+   assignment - value give to a variable
+    var = 22
+   statement - simple_stmt = print_stmt
+   comment - #information that is ignored by the program
+   expression - any value is an expression
+    var = 22
+   equality of two variables - 
+    a = val
+    b = val
+    if a = b
+      take some action
+  conditionals - more than one choice of action depending on a variables value
+    if n>0
+      print something
+    else:
+      print other
+  function - 
+    def functionname ( str):
+      "important message"
+      print str
+      return
+  paramater - a named entity in a function
+    def function(parameter)
+  character - the components of a string
+    str = ("c", "h", "a", "r")
+  string - characters enclosed in quotes
+    str = ("c")
+  boolean - logic test that returns True or False
+    True and False
+    1 != 0
+  integer - number written without a fractional component
+  
+  
+6. compiler translates high level language to a lower level language like machine or assembly. Interpreter runs the
+   code at the lower level language.
+   
+7. Keywords are reserved words that cannot be used as ordinary identifiers.
+    and del from not while
+    as elif global or with
+    assert else if pass yeild
+    
+

@@ -1,0 +1,3 @@
+Software goals are to continue on with Codecademy - Python. I'm almost 50% done. I'm also working on a GIS python
+tutorial because the problems are understandable to me and I get to use the actual python interpreter. I was unable to
+get through all the questions on the week 2 worksheet during class time, so I'll keep working on them.

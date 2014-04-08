@@ -56,6 +56,9 @@
    Object oriented programming - a style of programming that focuses on using objects to design and build applications
     
 9. Modules can be imported into Python by using import, from import or __import__ 
+
+10. The core programming language contains the standard libraries. Other libraries need to be imported. Libraries are
+    a subset of core languages.
     
     
     

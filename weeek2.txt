@@ -34,15 +34,34 @@
   boolean - logic test that returns True or False
     True and False
     1 != 0
-  integer - number written without a fractional component
+  integer - number written without a fractional component. natural numbers, zero, and opposite of natural numbers (- numbers)
   
   
 6. compiler translates high level language to a lower level language like machine or assembly. Interpreter runs the
    code at the lower level language.
    
 7. Keywords are reserved words that cannot be used as ordinary identifiers.
-    and del from not while
-    as elif global or with
-    assert else if pass yeild
+    and       del       from      not      while
+    as        elif      global    or       with
+    assert    else      if        pass     yeild
+    break     except    import    print
+    class     exec      in        raise
+    continue  finally   is        return
+    def       for       lambda    try
     
-
+8. Class - a blueprint or template or set of instructions to build a specific type of object. A class has a single 
+   responsibility
+   Object - a self-contained component that contains properties and methods needed to make a certain type of data useful.
+   An object’s properties are what it knows and its methods are what it can do.
+   Object oriented programming - a style of programming that focuses on using objects to design and build applications
+    
+9. Modules can be imported into Python by using import, from import or __import__ 
+    
+    
+    
+    
+    
+    
+    
+    
+    

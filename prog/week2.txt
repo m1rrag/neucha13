@@ -1,0 +1,5 @@
+Hardware:  El Pato
+
+Week 1 goals are close to completion. Motors, shafts and props are in place but still waiting for shaft hardware for last motor. Frame needs to be designed and assembled but since we're using pvc pipe, it should go rapidly. I'll bring the pvc to lab next week for assembly. Control box is ready to go. Still need to find a right sized 12v battery.
+
+The design challenge now is to determine what functions can become programmable. It looks like an Arduino board can be used to control the vehicle by programming. On/off, reverse thrust, and duration should be enough to create a navigation routine.  We need to choose an Arduino board so that we can get started on figuring that out.
